@@ -9,5 +9,6 @@ print(sys.executable)
 print(x)
 print(x.mean())
 print(np.__version__)
+print("Sigma")
 
 print("This is my first git project!")
